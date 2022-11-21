@@ -4,6 +4,13 @@
       "title": "Món chính",
       "list": [
         {
+          "id": 6408,
+          "category_id": "83",
+          "uuid": "620e08708f7c5",
+          "title": "Bắp cải cuộn thịt bò",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/images595079_5.jpg"
+        },
+        {
           "id": 6419,
           "category_id": "83",
           "uuid": "620e08fd2befc",
