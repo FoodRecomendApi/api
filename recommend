@@ -4,18 +4,18 @@
       "title": "Món chính",
       "list": [
         {
-          "id": 6408,
-          "category_id": "83",
-          "uuid": "620e08708f7c5",
-          "title": "Bắp cải cuộn thịt bò",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/images595079_5.jpg"
+          "id": 11123,
+          "category_id": "95",
+          "uuid": "620e086021cd6",
+          "title": "Ức vịt nướng mật ong",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/cat_36/ucvitnuongmatong.jpg"
         },
         {
-          "id": 9999,
-          "category_id": "93",
-          "uuid": "620e0834031a0",
-          "title": "Làm mới với món thịt heo xào mắm ruốc",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/1305258316-thit-xao-mam-ruoc9.jpg"
+          "id": 15484,
+          "category_id": "1",
+          "uuid": "620e090876273",
+          "title": "Thịt bò kho tàu",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/thitbokhotau.jpg"
         }
       ]
     },
