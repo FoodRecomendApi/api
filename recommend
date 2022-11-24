@@ -4,13 +4,6 @@
       "title": "Món chính",
       "list": [
         {
-          "id": 6506,
-          "category_id": "83",
-          "uuid": "620e08b39b914",
-          "title": "Gà kho tộ",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/images601666_gakho.jpg"
-        },
-        {
           "id": 22440,
           "category_id": "23",
           "uuid": "620e08b160c4f",
@@ -23,6 +16,13 @@
           "uuid": "620e08af44480",
           "title": "Chả cá thì là",
           "thumb": "https://cdn.sachnauan.net/monngonmoingay/20170925/7112.jpg"
+        },
+        {
+          "id": 6506,
+          "category_id": "83",
+          "uuid": "620e08b39b914",
+          "title": "Gà kho tộ",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/images601666_gakho.jpg"
         }
       ]
     },
