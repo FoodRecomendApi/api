@@ -4,25 +4,18 @@
       "title": "Món chính",
       "list": [
         {
-          "id": 6457,
+          "id": 6431,
           "category_id": "83",
-          "uuid": "620e0901597ee",
-          "title": "Dân dã cá kho chuối xanh",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/20170911/1998.jpg"
+          "uuid": "620e0857afe13",
+          "title": "Sườn kho nước dừa",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/20170925/2314.jpg"
         },
         {
-          "id": 6468,
+          "id": 6444,
           "category_id": "83",
-          "uuid": "620e08f1d1bf9",
-          "title": "Sườn om gừng tỏi",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/images642576_suon1.jpg"
-        },
-        {
-          "id": 6485,
-          "category_id": "83",
-          "uuid": "620e08b19038a",
-          "title": "Vịt chiên nước dừa",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/vitdua1.jpg"
+          "uuid": "620e0890e2784",
+          "title": "Chả lá lốt",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/chalalot.jpg"
         }
       ]
     },
@@ -35,18 +28,18 @@
       "title": "Món rau, canh",
       "list": [
         {
-          "id": 8385,
-          "category_id": "84",
-          "uuid": "620e0888c0113",
-          "title": "Canh miến đậu phụ nhồi thịt nóng hổi",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/1297830190-150211-loisong-canh-2.jpg"
+          "id": 6432,
+          "category_id": "83",
+          "uuid": "620e08f053353",
+          "title": "Dưa rau muống giòn ngọt chống ngán",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/v1/dua-rau-muong.jpg"
         },
         {
-          "id": 8392,
+          "id": 6684,
           "category_id": "84",
-          "uuid": "620e085a3c85f",
-          "title": "Canh hến nấu dưa cải chua",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/canhhennaucaichua.jpg"
+          "uuid": "620e0848dd701",
+          "title": "Khổ qua nhồi thịt",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/khoquanhoithit.jpg"
         }
       ]
     },
@@ -54,11 +47,11 @@
       "title": "Món tráng miệng, khai vị",
       "list": [
         {
-          "id": 14082,
+          "id": 13684,
           "category_id": "13",
-          "uuid": "620e086777c85",
-          "title": "Chè đậu xanh cốt dừa",
-          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/cat_13/dauxanh.jpg"
+          "uuid": "620e08544b91c",
+          "title": "Sinh tố đu đủ cho làn da đẹp",
+          "thumb": "https://cdn.sachnauan.net/monngonmoingay/001/cat_13/du2.jpg"
         }
       ]
     }
